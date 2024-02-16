@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p134c0d3" alt="p134c0d3" /></a> </p>
 
--   🔭 I’m currently working on **Fit'N Food**
+-   🔭 I’m currently working on **Fit'N Food**, a full-stack application for tracking workouts, food intake, and caloric changes
 
 -   🌱 I’m currently learning **Angular & Rails**
 
