@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p134c0d3" alt="p134c0d3" /></a> </p>
 
-- 🔭 I’m currently working on **Fit'N Food**
+-   🔭 I’m currently working on **Fit'N Food**
 
-- 🌱 I’m currently learning **Angular & Rails**
+-   🌱 I’m currently learning **Angular & Rails**
 
-- 💬 Ask me about **JavaScript, TypeScript, and Ruby**
+-   💬 Ask me about **JavaScript, TypeScript, and Ruby**
 
-- 📫 How to reach me **jpierce.coder@gmail.com**
+-   📫 How to reach me **jpierce.coder@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/p134c0d3/p134c0d3/blob/main/Johnathan%20Pierce%20Resume.pdf](https://github.com/p134c0d3/p134c0d3/blob/main/Johnathan%20Pierce%20Resume.pdf)
+-   📄 Know about my experiences [https://github.com/p134c0d3/p134c0d3/blob/main/Johnathan%20Pierce%20Resume.pdf](https://github.com/p134c0d3/p134c0d3/blob/main/Johnathan%20Pierce%20Resume.pdf)
 
-- ⚡ Fun fact **I'm very passionate about open-source projects!**
+-   ⚡ Fun fact **I'm very passionate about open-source projects!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,6 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=p134c0d3&show_icons=true&locale=en&layout=compact" alt="p134c0d3" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p134c0d3&show_icons=true&locale=en" alt="p134c0d3" /></p>
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p134c0d3&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true)
