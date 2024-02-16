@@ -13,7 +13,7 @@
 
 -   📫 How to reach me **jpierce.coder@gmail.com**
 
--   📄 Know about my experiences [https://github.com/p134c0d3/p134c0d3/blob/main/Johnathan%20Pierce%20Resume.pdf](https://github.com/p134c0d3/p134c0d3/blob/main/Johnathan%20Pierce%20Resume.pdf)
+-   📄 Know about my experiences [Resume](https://github.com/p134c0d3/p134c0d3/blob/main/Johnathan%20Pierce%20Resume.pdf)
 
 -   ⚡ Fun fact **I'm very passionate about open-source projects!**
 
