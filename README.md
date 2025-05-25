@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm John Pierce</h1>
-<h3 align="center">A full-stack developer in training</h3>
+<h3 align="center">A full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p134c0d3&label=Profile%20views&color=0e75b6&style=flat" alt="p134c0d3" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p134c0d3" alt="p134c0d3" /></a> </p>
 
--   🔭 I’m currently working on **Railcar App**, a full-stack application for tracking railcar dates, loading, unloading, weights, and organization.
+-   🔭 I’m currently working on a full-stack solution with Multipli Credit Union.
 
--   🌱 I’m currently learning **Angular & Rails**
+-   🌱 I’m currently learning **Angular & React**
 
--   💬 Ask me about **JavaScript, TypeScript, and Ruby**
+-   💬 Ask me about **JavaScript, TypeScript, React, Angular, and Ruby**
 
--   📫 How to reach me **jpierce.coder@gmail.com**
-
--   📄 Know about my experiences [Resume](https://github.com/p134c0d3/p134c0d3/blob/main/Johnathan%20Pierce%20Resume.pdf)
+-   📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/johnathan-p-aa014710a/)**
 
 -   ⚡ Fun fact **I'm very passionate about open-source projects!**
 
