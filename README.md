@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p134c0d3" alt="p134c0d3" /></a> </p>
 
--   🔭 I’m currently working on a full-stack solution with Multipli Credit Union.
+-   🔭 I’m currently working on a full-stack solution for loan origination.
 
 -   🌱 I’m currently learning **Angular & React**
 
